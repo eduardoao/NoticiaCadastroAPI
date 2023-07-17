@@ -1,0 +1,29 @@
+{
+	"info": {
+		"_postman_id": "3c706f22-d1d1-47a4-bbd9-96ab86e6c2a5",
+		"name": "NoticiaCadastroAPI",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://noticiacadastroapi.onrender.com/WeatherForecast",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://noticiacadastroapi.onrender.com/WeatherForecast",
+					"protocol": "https",
+					"host": [
+						"noticiacadastroapi",
+						"onrender",
+						"com"
+					],
+					"path": [
+						"WeatherForecast"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

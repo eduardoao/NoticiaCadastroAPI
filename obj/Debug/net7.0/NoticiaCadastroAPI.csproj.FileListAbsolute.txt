@@ -31,3 +31,17 @@ D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\obj\Debug\net7.0\refint\NoticiaCadastr
 D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\obj\Debug\net7.0\NoticiaCadastroAPI.pdb
 D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\obj\Debug\net7.0\NoticiaCadastroAPI.genruntimeconfig.cache
 D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\obj\Debug\net7.0\ref\NoticiaCadastroAPI.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\PostMan\NoticiaCadastroAPI.postman_collection.json
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\AWSSDK.Core.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\AWSSDK.SecurityToken.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\DnsClient.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\MongoDB.Bson.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\MongoDB.Driver.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\MongoDB.Driver.Core.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\MongoDB.Libmongocrypt.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\SharpCompress.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\Snappier.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\ZstdSharp.dll
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\runtimes\linux\native\libmongocrypt.so
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Cursos\Udemy\DotNet\NoticiaCadastroAPI\bin\Debug\net7.0\runtimes\win\native\mongocrypt.dll
