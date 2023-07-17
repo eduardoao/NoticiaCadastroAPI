@@ -19,7 +19,15 @@ namespace NoticiaCadastroAPI.Controllers
 
         [HttpGet]
         public async Task<List<PlayList>> Index() {
-            return await _mongoDBService.GetAsync();
+            try
+            {
+                return await _mongoDBService.GetAsync();
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+            
         }
 
         [HttpPost]
